@@ -10,7 +10,7 @@
 - 2. :white_check_mark: Пробували будувати прості графіки;
 - 3. :white_check_mark: Навчилися графічно знаходити розв'язок системи рівнянь;
 - 4. :white_check_mark: Дізнались і на практиці використали заливку графіків; 
-
+- 5. :white_check_mark: Виконали завдання у (https://github.com/BobasB/2023_kn220_mmdo/blob/main/4_work/1.ipynb)
 
 ![logo](https://github.com/BobasB/it_college/blob/main/reports/pictures/logo-lit.jpg) 
 
